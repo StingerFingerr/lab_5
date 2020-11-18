@@ -1,4 +1,5 @@
-﻿#include<iostream>
+//Лабараторная работа №5 по предмету ООП студента Мартиновича Алексея, группы 924401
+#include<iostream>
 #include<string>
 #include<fstream>
 using namespace std;
